@@ -1,0 +1,6 @@
+[
+    { "preset": 6, "duration": 1},
+    { "preset": 6, "duration": 45000},
+    { "preset": 0, "duration": 45000},
+    { "preset": 7, "duration": 65000}
+]
